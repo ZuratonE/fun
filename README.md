@@ -1,4 +1,4 @@
-# fun
+# Squares
 
 ## q1.c
 
